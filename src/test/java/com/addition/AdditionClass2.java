@@ -16,6 +16,7 @@ public class AdditionClass2 {
 		int y = 6;
 		int z = x+y;
 		System.out.println(z);
+		
 	}
 
 }
