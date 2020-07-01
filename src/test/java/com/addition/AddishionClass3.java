@@ -6,6 +6,8 @@ public class AddishionClass3 {
 
 		
 		System.out.println("I am waiting Lillia's commit");
+		System.out.println("I am waiting Lillia's commit");
+
 
 	    int num1 = 2;
 		int num2 =5;
