@@ -12,7 +12,10 @@ public class AdditionClass2 {
 		
 		System.out.println(c);
 		
-		
+		int x=5;
+		int y = 6;
+		int z = x+y;
+		System.out.println(z);
 	}
 
 }
