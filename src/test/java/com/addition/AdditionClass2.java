@@ -12,6 +12,13 @@ public class AdditionClass2 {
 		
 		System.out.println(c);
 		
+		int d =7;
+		int g = 10;
+		
+		int h = a+b;
+		
+		System.out.println(c);
+		
 		
 	}
 
