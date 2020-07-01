@@ -6,10 +6,13 @@ public class DivisionClass {
 
 		int a = 100;
 		int b = 50;
+		int d =9;
 		
 		int c = a/b;
 		System.out.println(c);
 		
+		
+	
 		
 	}
 
